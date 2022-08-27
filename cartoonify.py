@@ -106,6 +106,4 @@ def car(Image):
 
 
 
-
-
 top.mainloop()
