@@ -7,3 +7,6 @@ the images using OpenCV, easygui, Numpy, Imageio, OS, Matplotlib.
  
  <p><img align="center" src="https://github.com/YossefEFM/Cartoonify_The_Image/blob/main/cartoon%20car.jpg" alt="yossefefm" width="500" height="500"/></p>
  <p><img align="center" src="https://github.com/YossefEFM/Cartoonify_The_Image/blob/main/cartoon%20image2.jpg" alt="yossefefm" width="500" height="500"/></p>
+
+# Video
+https://github.com/YossefEFM/Cartoonify_The_Image/blob/main/cartoonify.mp4
